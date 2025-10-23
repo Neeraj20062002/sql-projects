@@ -66,16 +66,6 @@ Each project represents a real-world business scenario where I’ve applied **SQ
 
 ---
 
-## 📸 Preview (Optional)
-
-<p align="center">
-  <img src="assets/sql_preview.png" alt="SQL Project Overview" width="700"/>
-</p>
-
-_(You can replace this image later with screenshots of your query results or ER diagrams.)_
-
----
-
 ## 📬 Contact
 
 👤 **Palli Konda Neeraj**  
